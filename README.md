@@ -1,3 +1,3 @@
 # TourismApp
 
-Create tourism app using django, react
+Create tourism app using django
